@@ -8,6 +8,7 @@ As base list was used the one from by https://github.com/bahar/WorldCityLocation
 
 ** This version have some bug fixes about wrong city - country associations **
 
-There are two files:
+There are two files: 
 
-city_coordinates_timezone_utc_offset.sql ---> contains: country, city, longitude, latitude, timezone, utc_offset
+1) world_country_city_latitude_longitude.sql ---> contains: country,city,longitude,latitude
+2) city_coordinates_timezone_utc_offset.sql ---> contains: country,city,longitude,latitude,timezone,utc_offset
