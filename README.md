@@ -1,4 +1,4 @@
-# world_city_location
+# world city locations and time info
 Coordinates (latitude, longitude) of many world city as SQL insert.
 
 A list of many (about 10600) world city with their coordinates (latitude and longitude) and timezone info as SQL insert statements to be used in applications that need them  (eg: i have used it in a Sqlite database for Ubuntu Touch App).
