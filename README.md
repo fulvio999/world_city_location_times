@@ -7,3 +7,7 @@ to be used in applications that need them  (eg: i have used it in a Sqlite datab
 As base list was used the one from by https://github.com/bahar/WorldCityLocations (Thanks).
 
 ** This version have some bug fixes about wrong city - country associations **
+
+There are two files:
+
+city_coordinates_timezone_utc_offset.sql ---> contains: country, city, longitude, latitude, timezone, utc_offset
